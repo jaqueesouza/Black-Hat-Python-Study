@@ -1,4 +1,4 @@
-Algumas coisas uteis de saber:
+## Algumas coisas uteis de saber:
 
 - socket =  ajuda a criar servidores e clientes em rede com Python.
 - socket.AF_INET = indica que vai ser usado endereço IPv4.
@@ -7,7 +7,7 @@ Algumas coisas uteis de saber:
 
 TCP 
 ---
-Protocolo de Controle de Transmissão ou Transmission Control Protocol.
+#Protocolo de Controle de Transmissão ou Transmission Control Protocol.
 É um protocolo de comunicação que garante que os dados sejam transmitidos de forma segura e ordenada entre computadores, assegurando que os dados chegam completos, na ordem correta e sem erros. 
 Ele é usado em serviços como websites, e-mails e downloads.
 
