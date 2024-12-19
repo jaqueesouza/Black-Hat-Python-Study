@@ -4,6 +4,9 @@ import threading
 IP = '0.0.0.0'
 PORT = 9998
 
+
+# socket.AF_INET = indica que vai ser usado endereço IPv4.
+# socket.SOCK_STREM = indica que o cliente é TCP.
 def main():
     server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     server.bind((IP, PORT))
