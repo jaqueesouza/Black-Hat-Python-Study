@@ -2,7 +2,7 @@ import socket
 import threading
 
 IP = '0.0.0.0'
-PORT = 9998
+PORT = [..]
 
 
 # socket.AF_INET = indica que vai ser usado endereço IPv4.
