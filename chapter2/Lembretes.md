@@ -8,7 +8,7 @@
 TCP 
 ---
 Protocolo de Controle de Transmissão ou Transmission Control Protocol.
-É um protocolo de comunicação que garante que os dados sejam transmitidos de forma segura e ordenada entre computadores, assegurando que os dados chegam completos, na ordem correta e sem erros. 
+É um protocolo de comunicação que garante que os dados sejam transmitidos de forma segura e ordenada entre computadores, assegurando que os dados cheguem completos, na ordem correta e sem erros. 
 Ele é usado em serviços como websites, e-mails e downloads.
 
 
